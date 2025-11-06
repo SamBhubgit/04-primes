@@ -7,7 +7,7 @@ def isprime(p):
 
     # votre code ici
 
-    pass
+    return True
 
 #### Fonction principale
 
